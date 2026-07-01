@@ -9,7 +9,7 @@ int ledRight = 5;
 int threshold = 200;
 
 void setup() {
-  pinMode(ledUp, OUTPUT)/;
+  pinMode(ledUp, OUTPUT);
   pinMode(ledDown, OUTPUT);
   pinMode(ledLeft, OUTPUT);
   pinMode(ledRight, OUTPUT);
